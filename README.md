@@ -1,15 +1,15 @@
 # __Installation côté Frontend__
 
-Première étape : Installation de Node Module 
+ETAPE 1 : Installation de Node Module 
 > Ouvrir le terminal du dossier 
 > cd Portfolio-Frontend
-> npm install 
+> `npm install`
 
-Deuxième étape : 
-> Paramétrage du fichier .env pour une connexion au serveur (URL de connexion au Backend) 
+__ETAPE 2 : Paramétrage du fichier .env pour une connexion au serveur (URL de connexion au Backend)__ 
+> Saisir l'URL du serveur Backend 
 
-Troisième étape : 
-> Lancement du serveur avec la commande npm run dev 
+__ETAPE 3 : Mise en marche du Frontend__ 
+> Lancement du serveur avec la commande `npm run dev` 
 
 
-## Le côté front est maintenant en marche ✅
+__## Le côté front est maintenant en marche ✅__
