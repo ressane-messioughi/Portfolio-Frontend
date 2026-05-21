@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+body {
+  background-color: #111d30fb;
+}
+main {
+  min-height: 90vh;
+  background-color: #364152;
+}
+.my-script {
+  font-family: 'Roboto Mono', monospace;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #22c55e; /* Vert Tailwind */
+  border-radius: 50%;
+  display: inline-block;
+  /* L'animation qui fait l'effet de pulsation */
+  animation: pulse 2s infinite;
+}
+
+
+
